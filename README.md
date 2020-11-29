@@ -14,6 +14,6 @@ Program ini akan memakai input sebuah foto, kemudian memberikan output foto yang
 
 5. pastikan gambar yang ingin dideteksi berada di folder yang sama dengan nama "image.jpg"
 
-6. Jalankan program dengan mengetikkan pada cmd "python FirstDetection.py"
+6. Jalankan program dengan mengetikkan pada cmd "python run.py"
 
 7. Hasil gambar akan bernama "imagenew.jpg"
