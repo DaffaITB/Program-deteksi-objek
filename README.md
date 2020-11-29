@@ -8,7 +8,7 @@ Program ini akan memakai input sebuah foto, kemudian memberikan output foto yang
 
 2. Jika sudah, buka cmd yang mengarah pada folder repositori
 
-3. Install virtual enviru=onment jika perlu, aktifkan. Jika tidak juga tidak apa-apa
+3. Install virtual environment jika perlu, aktifkan. Jika tidak juga tidak apa-apa
 
 4. Ketikkan pada cmd "pip install -r requirements.txt", tunggu penginstalan selesai
 
