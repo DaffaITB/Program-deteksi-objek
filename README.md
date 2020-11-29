@@ -4,9 +4,7 @@ Program ini akan memakai input sebuah foto, kemudian memberikan output foto yang
 
 ### Step to Step
 
-1. Silakan download repositori ini terlebih dahulu, serta download juga [file ini](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5)
-
-   Kemudian masukkan file ke dalam forder.
+1. Silakan download repositori ini terlebih dahulu, serta download juga [file ini](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5), masukkan file ke dalam forder.
 
 2. Jika sudah, buka cmd yang mengarah pada folder repositori
 
